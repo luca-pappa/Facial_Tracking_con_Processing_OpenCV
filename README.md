@@ -29,26 +29,26 @@ Tiene il corso: Luca Rosario Pappa
 
 
 Programma:
-
-    Introduzione
+ 
+ Introduzione
         Cos’è Processing 
         Perché lo usiamo 
         Basi
 
-   Primi passi
+ Primi passi
         Configurazioni di base
         Libreria OpenCV
         Classificatori 
         Play with demos
 
-
-   Creiamo il nostro primo sketch
+ Creiamo il nostro primo sketch
         Face Detection 
         Eyes Detection 
         Mouth Detection 
         Background substraction
         Optical Flow
 
-   Fai da te
+ Fai da te
         Ora tocca a te
         Creazione di applicazione (game, utilities)
+
