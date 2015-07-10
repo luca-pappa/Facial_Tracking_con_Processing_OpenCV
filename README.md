@@ -1,4 +1,4 @@
-# Facial_Tracking_con_Processing_OpenCV
+# Facial Tracking con Processing OpenCV
 Repository contenente lezioni, esempi e demo di applicazioni e lezioni relative al WorkShop:
 <img src="https://img.evbuc.com/https%3A%2F%2Fimg.evbuc.com%2Fhttps%253A%252F%252Fcdn.evbuc.com%252Fimages%252F13991996%252F97048719707%252F1%252Foriginal.jpg%3Frect%3D0%252C13%252C498%252C249%26s%3D50727c837b0e55447e65c50c99fc980e?h=150&w=300&s=d9b87b22f61ee4e34ec92376331bc77e";>
 
