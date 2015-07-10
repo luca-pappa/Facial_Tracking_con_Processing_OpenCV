@@ -36,20 +36,24 @@ Programma:
         Basi
 
     Primi passi
-        Configurazioni di base
-        Libreria OpenCV
-        Classificatori 
-        Play with demos
+
+    Configurazioni di base
+    Libreria OpenCV
+    Classificatori 
+     Play with demos
 
 
     Creiamo il nostro primo sketch
-        Face Detection 
-        Eyes Detection 
-        Mouth Detection 
 
+    Face Detection 
+    Eyes Detection 
+    Mouth Detection 
+    Background substraction
+    Optical Flow
 
     Fai da te
-       Ora tocca a te
-       Creazione di applicazione (game, utilities)
+
+    Ora tocca a te
+    Creazione di applicazione (game, utilities)
 
 
