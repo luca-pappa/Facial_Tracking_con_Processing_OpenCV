@@ -42,13 +42,13 @@ Programma:
         Play with demos
 
 
-    Creiamo il nostro primo sketch
+   Creiamo il nostro primo sketch
         Face Detection 
         Eyes Detection 
         Mouth Detection 
         Background substraction
         Optical Flow
 
-    Fai da te
+   Fai da te
         Ora tocca a te
         Creazione di applicazione (game, utilities)
